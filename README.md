@@ -1,1 +1,1 @@
-# qb-mdt
+qb-mdt for web qith sql
